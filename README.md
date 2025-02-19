@@ -59,7 +59,7 @@ class Webbies {
     <a href="https://github.com/wrmuchefa"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="https://github.com/wrmuchefa"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-00B000?style=for-the-badge&logo=keycloak&logoColor=white"></a>
+    <a href="https://github.com/wrmuchefa"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4B4B4B?style=for-the-badge&logo=keycloak&logoColor=DB0000"></a>
 </p>
 
 ### 💻 Daily Drive Tools
@@ -81,3 +81,5 @@ class Webbies {
 <p align="center">
 <i>while(!(succeed = try()));</i>
 </p>
+
+
