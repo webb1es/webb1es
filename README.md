@@ -59,6 +59,7 @@ class Webbies {
     <a href="https://github.com/wrmuchefa"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="https://github.com/wrmuchefa"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-00B000?style=for-the-badge&logo=keycloak&logoColor=white"></a>
 </p>
 
 ### 💻 Daily Drive Tools
@@ -68,7 +69,6 @@ class Webbies {
     <a href="https://github.com/wrmuchefa"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
     <a href="https://github.com/wrmuchefa"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="https://github.com/wrmuchefa"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4479A1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAELSURBVCiRldKxSgNBFIXhb9dgGhsRBBsRBEEQbAQbwUoQX8BaC0GwsBAsFJ9AFBsLGxsLKx/AhUUEwUKxkCAiiEUEwWLPWsxs2F03Wc2BW8w958zcmVvwPzrYwDkGaMZ6gSFe8JTd8YgmvnCHDhYwi6Uo7uAet/jGM5bxjtcYnhCiFh1PsYV9rEb4HW8J3vCJ3SzZxQtOcRjdHmM9wWtxGqzhDefYRj/BDcxhPsEjNGK4Hd/vuEA3wc0E97I4wAeO0ItFLzjBEg5wiZ0EV+L7Vny/YhMfWMQG1rEX4Q5mRjXOxJXMYwl3OMNpHDjEeYI7f/UYxSgmU8FOXOkEO1GxhaqGf9YPxTc4pO85zvUAAAAASUVORK5CYII="/></a>
     <a href="https://github.com/wrmuchefa"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
 </p>
 
@@ -81,5 +81,3 @@ class Webbies {
 <p align="center">
 <i>while(!(succeed = try()));</i>
 </p>
-
-
