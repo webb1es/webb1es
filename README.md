@@ -3,7 +3,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-English-blue?style=for-the-badge" />
 </p>
 
 <pre>
@@ -24,7 +23,7 @@ class Webbies {
 
 ## 🤝 Let's Connect and rm -rf isolation
 
-<p align="center">
+<p>
 	<a href="mailto:wrmuchefa@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="// your LinkedIn URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   	<a href="// your Twitter URL"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=x" alt="twitter"/></a>
