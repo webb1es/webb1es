@@ -1,37 +1,38 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/wrmuchefa" target="blank">
-Webster</a></h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">console.log('Hello World! 👋') I'm <a href="https://github.com/wrmuchefa" target="blank">Webster</a></h1>
+<h3 align="center">$ whoami: Software Engineering Consultant && Problem Solver</h3>
 
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Software_Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-English-blue?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-English-blue?style=for-the-badge" />
 </p>
 
 <pre>
-💻 I am a Software Engineer
-📚 I have a Bachelors in Mechanical Engineering from Polytechnic School of Lomé
-📝 I'm getting started write articles on <a href="https://dev.to/wrmuchefa">https://dev.to/wrmuchefa</a> 
-🔭 I'm currently working on my side projects
-🌱 I'm currently learning Cloud Architecture and System Design
-🌟 Main languages: Java, Go, Python, JavaScript, TypeScript
-💬 Ask me about <strong>Software Engineering & System Design</strong>
-🤝 I'm available for freelancing.
-📫 How to reach me <strong>wrmuchefa@gmail.com</strong>
-🎮 Hobbies: Soccer, Gaming, Travelling
-📄 <a href="// Add your resume link here" target="_blank">My Resume</a>
+class Webster {
+    constructor() {
+        this.role = "Software Engineering Consultant 💻";
+        this.location = "Zimbabwe 🌍";
+        this.currentlyLearning = ["Cloud Architecture", "System Design"];
+        this.workingOn = "Crafting elegant solutions to complex problems";
+        this.skills = ["Java", "Go", "Python", "JavaScript", "TypeScript"];
+        this.askMeAbout = ["Software Architecture", "System Design", "Tech Consulting"];
+        this.contact = "wrmuchefa@gmail.com";
+        this.status = "Available for interesting projects";
+        this.downtime = ["⚽ Soccer", "🎮 Gaming", "✈️ Travelling"];
+    }
+}
 </pre>
 
-## 🤝 Connect with me
+## 🤝 Let's Connect and rm -rf isolation
 
 <p align="center">
-	<a href="mailto:// your email"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:wrmuchefa@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="// your LinkedIn URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   	<a href="// your Twitter URL"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=x" alt="twitter"/></a>
 </p>
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Tech Arsenal
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages I Speak (Besides Human)
 
 <p>
     <a href="https://github.com/wrmuchefa"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -41,7 +42,7 @@ Webster</a></h1>
     <a href="https://github.com/wrmuchefa"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and Libraries
+### 🧰 My Power Tools (Frameworks & Libraries)
 
 <p>
     <a href="https://github.com/wrmuchefa"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
@@ -52,7 +53,7 @@ Webster</a></h1>
     <a href="https://github.com/wrmuchefa"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Data & Cloud Command Centers
 
 <p>
     <a href="https://github.com/wrmuchefa"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -61,7 +62,7 @@ Webster</a></h1>
     // ... Add more databases and cloud services you use ...
 </p>
 
-### 💻 Software and Tools
+### 💻 Daily Drive Tools
 
 <p>
     <a href="https://github.com/wrmuchefa"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -70,8 +71,14 @@ Webster</a></h1>
     // ... Add more tools you use ...
 </p>
 
-### 📝 Blogs posts
+### 📝 sudo apt-get install knowledge
 
 <!-- BLOG-POST-LIST:START -->
-// Add your blog posts here
+- [Getting Started with Keycloak: Running Your First Instance](https://dev.to/webbies/getting-started-with-keycloak-running-your-first-instance-18fd)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+<i>while(!(succeed = try()));</i>
+</p>
+
+
