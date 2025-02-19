@@ -1,4 +1,4 @@
-<h1 align="center">console.log('Hello World! 👋') I'm <a href="https://github.com/wrmuchefa" target="blank">Webster</a></h1>
+<h1 align="center">console.log('Hello World! 👋') I'm <a href="https://github.com/wrmuchefa" target="blank">Webbies</a></h1>
 <h3 align="center">$ whoami: Software Engineering Consultant && Problem Solver</h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <pre>
-class Webster {
+class Webbies {
     constructor() {
         this.role = "Software Engineering Consultant 💻";
         this.location = "Zimbabwe 🌍";
